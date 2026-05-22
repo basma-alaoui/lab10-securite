@@ -63,8 +63,7 @@ frida-ps --version
 python -c "import frida; print(frida.__version__)"
 Résultat attendu :
 Les trois commandes affichent la même version (ex. 17.9.1).
-Capture d’exemple :
-https://github.com/user-attachments/assets/966ee7a3-ff78-42fe-ad34-130098847c4a
+
 
                  Étape 2 : Installation et vérification d’ADB
 ADB permet la communication avec l’appareil Android.
